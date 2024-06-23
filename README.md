@@ -75,21 +75,13 @@ Systematic Approach: Developing a systematic approach to devising a report build
 ## Sample Reports
 [Customer Performance Report](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report.pdf)
 
-
-
-[https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/AtliQ%20Market%20vs%20Target%20performance.pdf](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/AtliQ%20Market%20vs%20Target%20performance.pdf)
-
+[Market vs Target Performance](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/AtliQ%20Market%20vs%20Target%20performance.pdf)
 
 [P&L Statement by Fiscal Year](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)
 
-https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Months.pdf
+[P&L Statement by Months](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-[
-P&L Statement by Markets](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Markets.pdf)
-
-
-
-
+[P&L Statement by Markets](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 
 ## Conclusion
