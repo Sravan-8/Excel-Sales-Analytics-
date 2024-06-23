@@ -4,12 +4,12 @@
 
 Customer Performance Report: Generate a comprehensive [Customer Performance Report.pdf](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report.pdf)
 
-Market Performance vs. Sales Targets: Conduct an in-depth comparison between market performance and sales targets.
+Market Performance vs. Sales Targets: Conduct an in-depth comparison between [market performance and sales targets](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/AtliQ%20Market%20vs%20Target%20performance.pdf).
 
 ## Finance Report
 P&L Reports by Fiscal Year and Months: Create Profit and Loss (P&L) reports for different time periods:
 
-By Fiscal Year
+[By Fiscal Year](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)
 
 By Months
 
