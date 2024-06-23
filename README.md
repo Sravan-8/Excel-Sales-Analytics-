@@ -2,7 +2,7 @@
 
 ### Project Objective
 
-Customer Performance Report: Generate a comprehensive Customer Performance Report.
+Customer Performance Report: Generate a comprehensive Customer Performance Report.pdf
 
 Market Performance vs. Sales Targets: Conduct an in-depth comparison between market performance and sales targets.
 
