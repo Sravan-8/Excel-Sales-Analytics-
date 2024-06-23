@@ -2,7 +2,7 @@
 
 ### Project Objective
 
-Customer Performance Report: Generate a comprehensive Customer Performance Report.pdf
+Customer Performance Report: Generate a comprehensive [Customer Performance Report.pdf](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report.pdf)
 
 Market Performance vs. Sales Targets: Conduct an in-depth comparison between market performance and sales targets.
 
