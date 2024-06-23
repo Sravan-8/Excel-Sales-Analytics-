@@ -11,7 +11,7 @@ P&L Reports by Fiscal Year and Months: Create Profit and Loss (P&L) reports for 
 
 [By Fiscal Year](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)
 
-By Months
+[By Months](https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 P&L Reports by Markets: Develop P&L reports segmented by Markets.
 
